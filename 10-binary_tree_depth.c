@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * binary_tree_depth - depth of a node from root
  * @tree: ptr to a node
